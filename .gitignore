@@ -1,0 +1,14 @@
+
+# IDE
+.idea
+.vscode
+*.swp
+
+# mac
+.DS_Store
+.sql
+
+# rust
+target
+Cargo.lock
+.env
